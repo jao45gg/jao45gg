@@ -1,6 +1,6 @@
 ### Hello World, I'm João  👋
 
-## I'm a Software Engineerging Student at Driven Education !!
+## I'm a Software Engineering Student at Driven Education !!
 - ✍ You can find my projects here [portfolio]
 - 🌱 I’m currently learning React
 - ⚡ Fun fact: i speak 2 languages, but i'm looking for more ! ( Portuguese and English (not fluent) )
