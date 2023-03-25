@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineering Student at Driven Education and Production Engineering at UFMG !
 - ✍ You can find my projects in my [portfolio]
-- 🌱 I’m currently learning React
+- 🌱 I just completed the front-end on my course and i'm now studying back-end
 - ⚡ Fun fact: i speak 2 languages, but i'm looking for more ! ( Portuguese and English (not fluent) )
 
 
