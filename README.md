@@ -29,7 +29,6 @@
       <img align="left" alt="Java" width="80px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
     </td>
     <td>
-    <td>
       <img align="left" alt="C" width="50px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     </td>
     <td>
@@ -51,20 +50,23 @@
 </table>
 <!-- LANGUAGES -->
 
-<!-- LANGUAGES -->
+<!-- FRAMEWORKS -->
 <table>
   <tr>
+    <td>
+      <img align="left" alt="React" width="80px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)" />
+    </td>
     <td>
       <img align="left" alt="Node.js" width="80px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
     </td>
     <td>
-      <img align="left" alt="nodemon" width="80px" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" />
+      <img align="left" alt="Nest" width="80px" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
     </td>
     <td>
-      <img align="left" alt="npm" width="50px" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+      <img align="left" alt="SpringBoot" width="80px" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
     </td>
     <td>
-      <img align="left" alt="express" width="80px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+      <img align="left" alt="PostgreSQL" width="80px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
     <td>
       <img align="left" alt="MongoDB" width="80px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -72,27 +74,30 @@
     <td>
       <img align="left" alt="Redis" width="80px" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
     </td>
+     <td>
+      <img align="left" alt="Swagger" width="80px" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
+    </td>
+  </tr>
+</table>
+<!-- FRAMEWORKS -->
+
+<!-- OTHERS -->
+<table>
+ <tr>
+   <td>
+      <img align="left" alt="nodemon" width="80px" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" />
+    </td>
     <td>
-      <img align="left" alt="Nest" width="80px" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+      <img align="left" alt="express" width="80px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
     </td>
    <td>
       <img align="left" alt="Jest" width="80px" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
     </td>
-  </tr>
-</table>
-<table>
- <tr>
     <td>
-      <img align="left" alt="SpringBoot" width="80px" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+      <img align="left" alt="npm" width="50px" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
     </td>
     <td>
       <img align="left" alt="Prisma" width="80px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-    </td>
-    <td>
-      <img align="left" alt="TypeScript" width="80px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    </td>
-    <td>
-      <img align="left" alt="PostgreSQL" width="80px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
     <td>
       <img align="left" alt="StyledComponents" width="80px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
@@ -105,10 +110,7 @@
     </td>
  </tr>
 </table>
-
-<td>
-      <img align="left" alt="React" width="80px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)" />
-    </td>
+<!-- OTHERS -->
 
 
 <br />
