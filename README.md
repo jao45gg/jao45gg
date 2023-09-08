@@ -1,12 +1,12 @@
 ### Hello World, I'm João 👋
 
-## I'm a Web Developer and System Engineering Student at Universidade Federal de Minas Gerais !
+## I'm a Web Developer and System Engineering Student at Federal University of Minas Gerais !
 
 - ✍ You can find my projects in my [portfolio]
 - 🌱 I am now focused on learning Java
-- ⚡ Fun fact: My first contact with the programming world was when i was 13 years old
+- ⚡ Fun fact: My first contact with the programming world was when i was 13 years old on [Scratch](https://scratch.mit.edu)
 
-### Come talk with me on Linkeding !
+### Come talk with me on [Linkeding](https://www.linkedin.com/in/joaopedrosouzabraga/) !
 
 ### Languages and Tools:
 
@@ -20,10 +20,10 @@
       <img align="left" alt="CSS3" width="80px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     </td>
     <td>
-      <img align="left" alt="JavaScript" width="80px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+      <img align="left" alt="JavaScript" width="120px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     </td>
      <td>
-      <img align="left" alt="TypeScript" width="80px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img align="left" alt="TypeScript" width="120px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     </td>
      <td>
       <img align="left" alt="Java" width="80px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -32,14 +32,14 @@
       <img align="left" alt="C" width="50px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     </td>
     <td>
-      <img align="left" alt="C++" width="50px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img align="left" alt="C++" width="80px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     </td>
     </td>
      <td>
       <img align="left" alt="Git" width="80px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     </td>
     <td>
-      <img align="left" alt="GitHub" width="80px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      <img align="left" alt="GitHub" width="100px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td>
      <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -63,10 +63,10 @@
       <img align="left" alt="Nest" width="80px" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
     </td>
     <td>
-      <img align="left" alt="SpringBoot" width="80px" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+      <img align="left" alt="SpringBoot" width="100px" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
     </td>
     <td>
-      <img align="left" alt="PostgreSQL" width="80px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img align="left" alt="PostgreSQL" width="100px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
     <td>
       <img align="left" alt="MongoDB" width="80px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -94,16 +94,16 @@
       <img align="left" alt="Jest" width="80px" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
     </td>
     <td>
-      <img align="left" alt="npm" width="50px" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+      <img align="left" alt="npm" width="80px" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
     </td>
     <td>
       <img align="left" alt="Prisma" width="80px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
     </td>
     <td>
-      <img align="left" alt="StyledComponents" width="80px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+      <img align="left" alt="StyledComponents" width="120px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
     </td>
     <td>
-      <img align="left" alt="Visual Studio Code" width="80px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <img align="left" alt="Visual Studio Code" width="120px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     </td>
     <td>
       <img align="left" alt="Eclipse" width="80px" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
@@ -117,9 +117,9 @@
 <br />
 <br />
 
-<summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats :zap:</summary>
+<br />
 
  <img align="left" alt="João's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jao45gg&show_icons=true&hide_border=true" />
 
-[linkedin]: https://www.linkedin.com/in/joaopedrosouzabraga/
 [portfolio]: https://github.com/jao45gg?tab=repositories
