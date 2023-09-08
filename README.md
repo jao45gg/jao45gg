@@ -1,14 +1,16 @@
-### Hello World, I'm João  👋
+### Hello World, I'm João 👋
 
 ## I'm a Web Developer and System Engineering Student at Universidade Federal de Minas Gerais !
+
 - ✍ You can find my projects in my [portfolio]
 - 🌱 I am now focused on learning Java
 - ⚡ Fun fact: My first contact with the programming world was when i was 13 years old
 
-
 ### Come talk with me on Linkeding !
+
 ### Languages and Tools:
 
+<!-- LANGUAGES -->
 <table>
   <tr>
     <td>
@@ -20,26 +22,36 @@
     <td>
       <img align="left" alt="JavaScript" width="80px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     </td>
-    <td>
-      <img align="left" alt="React" width="80px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)" />
+     <td>
+      <img align="left" alt="TypeScript" width="80px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+     <td>
+      <img align="left" alt="Java" width="80px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
     </td>
     <td>
-      <img align="left" alt="Git" width="80px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-    <td>
-      <img align="left" alt="GitHub" width="80px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-    <td>
-      <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-    </td>
     <td>
       <img align="left" alt="C" width="50px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     </td>
     <td>
       <img align="left" alt="C++" width="50px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     </td>
+    </td>
+     <td>
+      <img align="left" alt="Git" width="80px" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+    <td>
+      <img align="left" alt="GitHub" width="80px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td>
+     <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+</td>
+
   </tr>
 </table>
+<!-- LANGUAGES -->
+
+<!-- LANGUAGES -->
 <table>
   <tr>
     <td>
@@ -86,9 +98,6 @@
       <img align="left" alt="StyledComponents" width="80px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
     </td>
     <td>
-      <img align="left" alt="StyledComponents" width="80px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-    </td>
-    <td>
       <img align="left" alt="Visual Studio Code" width="80px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     </td>
     <td>
@@ -96,6 +105,10 @@
     </td>
  </tr>
 </table>
+
+<td>
+      <img align="left" alt="React" width="80px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)" />
+    </td>
 
 
 <br />
