@@ -6,7 +6,7 @@
 - 🌱 I am now focused on learning Java
 - ⚡ Fun fact: My first contact with the programming world was when i was 13 years old on [Scratch](https://scratch.mit.edu)
 
-### Come talk with me on [Linkeding](https://www.linkedin.com/in/joaopedrosouzabraga/) !
+### Come talk with me on [LinkedIn](https://www.linkedin.com/in/joaopedrosouzabraga/) !
 
 ### Languages and Tools:
 
