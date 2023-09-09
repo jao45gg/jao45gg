@@ -2,9 +2,9 @@
 
 ### I'm a Web Developer and System Engineering Student at Federal University of Minas Gerais !
 
+- Have you ever wondered how technology can solve complex challenges? I have too. During the Programming and Software Development I and II classes at the Federal University of Minas Gerais, I realized that I could turn problems into solutions, and I fell in love with it! And this passion is not new, since the 9th grade, I was already creating simple projects using block-based programming on [Scratch](https://scratch.mit.edu)
 - ✍ You can find my projects in my [portfolio]
 - 🌱 I am now focused on learning Java
-- ⚡ Fun fact: My first contact with the programming world was when i was 13 years old on [Scratch](https://scratch.mit.edu)
 
 ### Come talk with me on [LinkedIn](https://www.linkedin.com/in/joaopedrosouzabraga/) !
 
